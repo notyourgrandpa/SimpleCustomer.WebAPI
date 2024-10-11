@@ -1,0 +1,45 @@
+﻿@using SimpleCustomer.MVC.Models;
+@model IEnumerable<CustomerViewModel>
+@{
+	ViewData["Title"] = "Customers";
+}
+<head>
+	<link rel="stylesheet" href="~/css/styles.css" />
+</head>
+<h2>List of Customers</h2>
+<a class="btn btn-primary" style="float:right" href="customers/create">Add Customer</a>
+<table class="table" style="width:100%">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Full Name</th>
+			<th>Birthdate</th>
+			<th>Gender</th>
+			<th>Email Address</th>
+			<th>Permanent Address</th>
+			<th>Mobile No.</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.Id</td>
+				<td>@item.FullName</td>
+				<td>@item.Birthdate.ToShortDateString()</td>
+				<td>@item.Gender</td>
+				<td>@item.EmailAddress</td>
+				<td>@item.PermanentAddress</td>
+				<td>@item.PhoneNumber</td>
+				<td>
+					<div class="button-container">
+						<a class="btn btn-info" href="customers/details/@item.Id">View</a>
+						<a class="btn btn-warning" href="customers/edit/@item.Id">Edit</a>
+						<a class="btn btn-danger" href="customers/delete/@item.Id">Delete</a>
+					</div>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

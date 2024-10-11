@@ -1,0 +1,26 @@
+﻿@model CustomerViewModel
+@{
+    ViewData["Title"] = @Model.FullName + " Details";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">@Model.FullName Details</h2>
+    <div class="card">
+        <div class="card-header">
+            <h5 class="mb-0">Customer Information</h5>
+        </div>
+        <div class="card-body">
+            <p>
+                <strong>Email:</strong> @Model.EmailAddress<br />
+                <strong>Gender:</strong> @Model.Gender<br />
+                <strong>Birthdate:</strong> @Model.Birthdate.ToShortDateString()<br />
+                <strong>Email Address: </strong> @Model.EmailAddress<br />
+                <strong>Permanent Address:</strong> @Model.PermanentAddress<br />
+                <strong>Mobile:</strong> @Model.PhoneNumber<br />
+            </p>
+        </div>
+        <div class="card-footer">
+            <a href="../../customers" class="btn btn-secondary">Back to Customer List</a>
+        </div>
+    </div>
+</div>

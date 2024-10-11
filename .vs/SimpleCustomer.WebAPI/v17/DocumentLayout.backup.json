@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\controllers\\customerapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\controllers\\customerapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\customers\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\customers\\createcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\customers\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\customers\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\models\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\data\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\customers\\customerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\customers\\customerdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\data\\models\\customerentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\data\\models\\customerentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.webapi\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856A0AD5-030A-4904-BB55-7AFB250EE531}|SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI.csproj|solutionrelative:simplecustomer.webapi\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\views\\customers\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\views\\customers\\deletecustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Piolo Macayan\\AppData\\Roaming\\Microsoft\\UserSecrets\\93295264-ed3a-4b7c-b79c-d4cba7704d22\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|c:\\users\\piolo macayan\\source\\repos\\simplecustomer.webapi\\simplecustomer.mvc\\simplecustomer.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77AB0FC2-ED8B-4DE3-B025-A0DE0511592D}|SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj|solutionrelative:simplecustomer.mvc\\simplecustomer.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T05:13:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:42:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:58:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\CustomerApiClient.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Controllers\\CustomerApiClient.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\CustomerApiClient.cs",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Controllers\\CustomerApiClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:03:12.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\CreateCustomer.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Customers\\CreateCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\CreateCustomer.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Customers\\CreateCustomer.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:41:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:13:28.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Program.cs",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:00:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Models\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Models\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Models\\CustomerViewModel.cs",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Models\\CustomerViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:50:11.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\EditCustomer.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Customers\\EditCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\EditCustomer.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Customers\\EditCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T07:31:10.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T07:23:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Data\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Models\\Customer.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Data\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:27:47.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\CustomerDetail.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Customers\\CustomerDetail.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\CustomerDetail.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Customers\\CustomerDetail.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:14:52.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:52:17.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:09:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Program.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:15:48.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Models\\CustomerEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Data\\Models\\CustomerEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Models\\CustomerEntityTypeConfiguration.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Data\\Models\\CustomerEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:32:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:18:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SimpleCustomer.WebAPI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.WebAPI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SimpleCustomer.WebAPI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:50:30.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\DeleteCustomer.cshtml",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\Views\\Customers\\DeleteCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\Views\\Customers\\DeleteCustomer.cshtml",
+              "RelativeToolTip": "SimpleCustomer.MVC\\Views\\Customers\\DeleteCustomer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T07:38:00.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\AppData\\Roaming\\Microsoft\\UserSecrets\\93295264-ed3a-4b7c-b79c-d4cba7704d22\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\93295264-ed3a-4b7c-b79c-d4cba7704d22\\secrets.json",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\AppData\\Roaming\\Microsoft\\UserSecrets\\93295264-ed3a-4b7c-b79c-d4cba7704d22\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\93295264-ed3a-4b7c-b79c-d4cba7704d22\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T06:32:46.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimpleCustomer.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj",
+              "RelativeDocumentMoniker": "SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj",
+              "ToolTip": "C:\\Users\\Piolo Macayan\\source\\repos\\SimpleCustomer.WebAPI\\SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj",
+              "RelativeToolTip": "SimpleCustomer.MVC\\SimpleCustomer.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T06:29:52.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

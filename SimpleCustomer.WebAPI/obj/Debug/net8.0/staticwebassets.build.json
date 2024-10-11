@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6y+eyZ8lHBQ8J6P9JzO12gMw9K1vrlGv7cFwDmYLlJk=",
+  "Source": "SimpleCustomer.WebAPI",
+  "BasePath": "_content/SimpleCustomer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
